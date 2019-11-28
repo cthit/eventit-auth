@@ -1,0 +1,26 @@
+{
+  "name": "eventit-auth",
+  "version": "1.0.0",
+  "description": "evenitit auth ",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon node/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cthit/eventit-auth.git"
+  },
+  "author": "Nox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cthit/eventit-auth/issues"
+  },
+  "homepage": "https://github.com/cthit/eventit-auth#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node": "^13.1.0",
+    "nodemon": "^2.0.1",
+    "require": "^2.4.20"
+  }
+}
